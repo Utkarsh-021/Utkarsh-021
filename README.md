@@ -8,7 +8,7 @@ I have been working in Software industry from last 2 years. I have a strong gras
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [utkarshiit2016@gmail.com](mailto:utkarshiit2016@gmail.com)
-* 🚀  I'm currently working on [LeetCode](http://leetcode.com/Terminator-X/)
+* 🚀  Problem Solving @ [LeetCode](http://leetcode.com/Terminator-X/)
 * 🧠  I'm learning Vue.JS
 * 🤝  I'm open to collaborating on HealthCare Applications.
 * ⚡  I love Singing and travelling
